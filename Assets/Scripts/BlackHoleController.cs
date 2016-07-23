@@ -11,15 +11,14 @@ public class BlackHoleController : MonoBehaviour {
 	void OnTriggerEnter2D (Collider2D collider) {
 		if (collider.tag == "Destructible") {
 			Destroy(collider.gameObject);
-
-			if (collider.gameObject.name == "Red Shirt") {
-				soundController.PlayRedShirtCatSound();
-			} else {
-				soundController.PlayOtherObjectSuckSound();
-			}
+			soundController.PlayOtherObjectSuckSound();
+			
 		} else if (collider.tag == "Small Destructible") {
 			Destroy(collider.gameObject);
 			soundController.PlayHairballSuckSound();
+		} else if (collider.tag == "Red Shirt") {
+			Destroy(collider.gameObject);
+			soundController.PlayRedShirtCatSound();
 		}
 	}
 }

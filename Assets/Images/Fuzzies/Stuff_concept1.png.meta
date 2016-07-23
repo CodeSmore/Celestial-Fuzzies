@@ -1,18 +1,20 @@
 fileFormatVersion: 2
-guid: 5f1b1cff385f4b24ea9ec9575ad4f4b5
-timeCreated: 1469286854
+guid: e533b93fd961ed544a70967004d6825a
+timeCreated: 1469303997
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Stuff_concepts_0
-    21300002: Stuff_concepts_1
-    21300004: Stuff_concepts_2
-    21300006: Stuff_concepts_3
-    21300008: Stuff_concepts_4
+    21300000: Stuff_concept1_0
+    21300002: Stuff_concept1_1
+    21300004: Stuff_concept1_2
+    21300006: Stuff_concept1_3
+    21300008: Stuff_concept1_4
+    21300010: Stuff_concept1_5
+    21300012: Stuff_concept1_7
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     linearTexture: 0
     correctGamma: 0
     fadeOut: 0
@@ -55,7 +57,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Stuff_concepts_0
+    - name: Stuff_concept1_0
       rect:
         serializedVersion: 2
         x: 7
@@ -63,7 +65,7 @@ TextureImporter:
         width: 83
         height: 89
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -33.5, y: 44.5}
@@ -77,7 +79,7 @@ TextureImporter:
         - {x: 28.5, y: -44.5}
         - {x: 41.5, y: -34.5}
         - {x: 41.5, y: 44.5}
-    - name: Stuff_concepts_1
+    - name: Stuff_concept1_1
       rect:
         serializedVersion: 2
         x: 119
@@ -85,7 +87,7 @@ TextureImporter:
         width: 165
         height: 73
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -75.5, y: 36.5}
@@ -96,7 +98,7 @@ TextureImporter:
         - {x: 82.5, y: -33.5}
         - {x: 82.5, y: 17.5}
         - {x: 39.5, y: 36.5}
-    - name: Stuff_concepts_2
+    - name: Stuff_concept1_2
       rect:
         serializedVersion: 2
         x: 331
@@ -104,9 +106,13 @@ TextureImporter:
         width: 188
         height: 230
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
+      - - {x: -75, y: -115}
+        - {x: -76, y: -112}
+        - {x: -80, y: -112}
+        - {x: -81, y: -115}
       - - {x: 40, y: -83}
         - {x: 6, y: -68}
         - {x: -41, y: -66}
@@ -129,7 +135,7 @@ TextureImporter:
         - {x: 52, y: -109}
         - {x: 58, y: -82}
         - {x: 43, y: -77}
-    - name: Stuff_concepts_3
+    - name: Stuff_concept1_3
       rect:
         serializedVersion: 2
         x: 592
@@ -137,7 +143,7 @@ TextureImporter:
         width: 167
         height: 374
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 39.5, y: -113}
@@ -153,14 +159,18 @@ TextureImporter:
         - {x: 13.5, y: -93}
         - {x: 21.5, y: -90}
         - {x: 36.5, y: -87}
-        - {x: 55.5, y: -74}
-        - {x: 83.5, y: -43}
-        - {x: 83.5, y: 108}
-        - {x: 22.5, y: 187}
+        - {x: 83.5, y: -83}
+        - {x: 83.5, y: 123}
+        - {x: 13.5, y: 187}
         - {x: -56.5, y: 187}
-        - {x: -75.5, y: 134}
-        - {x: -83.5, y: 41}
-        - {x: -83.5, y: -20}
+        - {x: -65.5, y: 152}
+        - {x: -68.5, y: 133}
+        - {x: -77.5, y: 83}
+        - {x: -74.5, y: 22}
+        - {x: -67.5, y: 16}
+        - {x: -25.5, y: 18}
+        - {x: -83.5, y: -7}
+        - {x: -83.5, y: -16}
         - {x: -66.5, y: -26}
         - {x: -64.5, y: -26}
         - {x: -61.5, y: -28}
@@ -194,7 +204,41 @@ TextureImporter:
         - {x: 39.5, y: -129}
         - {x: 38.5, y: -126}
         - {x: 35.5, y: -126}
-    - name: Stuff_concepts_4
+    - name: Stuff_concept1_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 575
+        width: 116
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 164}
+        - {x: -45, y: 158}
+        - {x: -58, y: 82}
+        - {x: -58, y: -164}
+        - {x: 31, y: -164}
+        - {x: 49, y: -162}
+        - {x: 55, y: -148}
+        - {x: 55, y: 50}
+        - {x: 39, y: 164}
+      - - {x: 54, y: -142}
+        - {x: 54, y: -148}
+        - {x: 56, y: -152}
+        - {x: 58, y: -152}
+        - {x: 58, y: -141}
+        - {x: 57, y: -141}
+      - - {x: -7, y: 151}
+        - {x: -10, y: 150}
+        - {x: -10, y: 146}
+        - {x: -9, y: 144}
+        - {x: 8, y: 144}
+        - {x: 10, y: 146}
+        - {x: 10, y: 149}
+        - {x: 8, y: 151}
+    - name: Stuff_concept1_5
       rect:
         serializedVersion: 2
         x: 153
@@ -205,6 +249,67 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+    - name: Stuff_concept1_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 209
+        width: 497
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138.5, y: -153}
+        - {x: -97.5, y: -150}
+        - {x: -92.5, y: -152}
+        - {x: -36.5, y: -148}
+        - {x: -35.5, y: -151}
+        - {x: -8.5, y: -149}
+        - {x: 22.5, y: -149}
+        - {x: 47.5, y: -148}
+        - {x: 56.5, y: -146}
+        - {x: 103.5, y: -145}
+        - {x: 123.5, y: -146}
+        - {x: 129.5, y: -137}
+        - {x: 117.5, y: -112}
+        - {x: 121.5, y: -111}
+        - {x: 145.5, y: -125}
+        - {x: 159.5, y: -132}
+        - {x: 164.5, y: -132}
+        - {x: 178.5, y: -112}
+        - {x: 204.5, y: -73}
+        - {x: 230.5, y: -31}
+        - {x: 248.5, y: -3}
+        - {x: 248.5, y: 2}
+        - {x: 247.5, y: 6}
+        - {x: 217.5, y: 4}
+        - {x: 201.5, y: 1}
+        - {x: 201.5, y: 33}
+        - {x: 200.5, y: 84}
+        - {x: 200.5, y: 157}
+        - {x: 196.5, y: 163}
+        - {x: -129.5, y: 163}
+        - {x: -132.5, y: 162}
+        - {x: -204.5, y: 81}
+        - {x: -228.5, y: 61}
+        - {x: -226.5, y: 54}
+        - {x: -226.5, y: -29}
+        - {x: -225.5, y: -36}
+        - {x: -224.5, y: -80}
+        - {x: -228.5, y: -89}
+        - {x: -238.5, y: -118}
+        - {x: -248.5, y: -141}
+        - {x: -248.5, y: -153}
+        - {x: -206.5, y: -153}
+        - {x: -158.5, y: -151}
+        - {x: -159.5, y: -153}
+      - - {x: -238.5, y: 58}
+        - {x: -236.5, y: 56}
+        - {x: -233.5, y: 57}
+        - {x: -233.5, y: 60}
+        - {x: -235.5, y: 62}
+        - {x: -238.5, y: 61}
     outline: []
   spritePackingTag: 
   userData: 
