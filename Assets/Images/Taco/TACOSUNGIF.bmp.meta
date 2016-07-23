@@ -1,0 +1,1257 @@
+fileFormatVersion: 2
+guid: 17a3a679be6e6cc45ad07e29274760a5
+timeCreated: 1461273960
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TACOSUNGIF_0
+    21300002: TACOSUNGIF_1
+    21300004: TACOSUNGIF_2
+    21300006: TACOSUNGIF_3
+    21300008: TACOSUNGIF_4
+    21300010: TACOSUNGIF_5
+    21300012: TACOSUNGIF_6
+    21300014: TACOSUNGIF_7
+    21300016: TACOSUNGIF_8
+    21300018: TACOSUNGIF_9
+    21300020: TACOSUNGIF_10
+    21300022: TACOSUNGIF_11
+    21300024: TACOSUNGIF_12
+    21300026: TACOSUNGIF_13
+    21300028: TACOSUNGIF_14
+    21300030: TACOSUNGIF_15
+    21300032: TACOSUNGIF_16
+    21300034: TACOSUNGIF_17
+    21300036: TACOSUNGIF_18
+    21300038: TACOSUNGIF_19
+    21300040: TACOSUNGIF_20
+    21300042: TACOSUNGIF_21
+    21300044: TACOSUNGIF_22
+    21300046: TACOSUNGIF_23
+    21300048: TACOSUNGIF_24
+    21300050: TACOSUNGIF_25
+    21300052: TACOSUNGIF_26
+    21300054: TACOSUNGIF_27
+    21300056: TACOSUNGIF_28
+    21300058: TACOSUNGIF_29
+    21300060: TACOSUNGIF_30
+    21300062: TACOSUNGIF_31
+    21300064: TACOSUNGIF_32
+    21300066: TACOSUNGIF_33
+    21300068: TACOSUNGIF_34
+    21300070: TACOSUNGIF_35
+    21300072: TACOSUNGIF_36
+    21300074: TACOSUNGIF_37
+    21300076: TACOSUNGIF_38
+    21300078: TACOSUNGIF_39
+    21300080: TACOSUNGIF_40
+    21300082: TACOSUNGIF_41
+    21300084: TACOSUNGIF_42
+    21300086: TACOSUNGIF_43
+    21300088: TACOSUNGIF_44
+    21300090: TACOSUNGIF_45
+    21300092: TACOSUNGIF_46
+    21300094: TACOSUNGIF_47
+    21300096: TACOSUNGIF_48
+    21300098: TACOSUNGIF_49
+    21300100: TACOSUNGIF_50
+    21300102: TACOSUNGIF_51
+    21300104: TACOSUNGIF_52
+    21300106: TACOSUNGIF_53
+    21300108: TACOSUNGIF_54
+    21300110: TACOSUNGIF_55
+    21300112: TACOSUNGIF_56
+    21300114: TACOSUNGIF_57
+    21300116: TACOSUNGIF_58
+    21300118: TACOSUNGIF_59
+    21300120: TACOSUNGIF_60
+    21300122: TACOSUNGIF_61
+    21300124: TACOSUNGIF_62
+    21300126: TACOSUNGIF_63
+    21300128: TACOSUNGIF_64
+    21300130: TACOSUNGIF_65
+    21300132: TACOSUNGIF_66
+    21300134: TACOSUNGIF_67
+    21300136: TACOSUNGIF_68
+    21300138: TACOSUNGIF_69
+    21300140: TACOSUNGIF_70
+    21300142: TACOSUNGIF_71
+    21300144: TACOSUNGIF_72
+    21300146: TACOSUNGIF_73
+    21300148: TACOSUNGIF_74
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TACOSUNGIF_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_16
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_25
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_26
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_34
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_35
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_40
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_43
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_44
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_48
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_49
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_52
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_53
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_59
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_60
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_61
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_62
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_67
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_68
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_69
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_70
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_71
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_73
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    - name: TACOSUNGIF_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

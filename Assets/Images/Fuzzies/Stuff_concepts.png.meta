@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 5f1b1cff385f4b24ea9ec9575ad4f4b5
+timeCreated: 1469286854
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stuff_concepts_0
+    21300002: Stuff_concepts_1
+    21300004: Stuff_concepts_2
+    21300006: Stuff_concepts_3
+    21300008: Stuff_concepts_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stuff_concepts_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 931
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 44.5}
+        - {x: -41.5, y: 42.5}
+        - {x: -41.5, y: 27.5}
+        - {x: -40.5, y: 27.5}
+        - {x: -40.5, y: 9.5}
+        - {x: -41.5, y: 5.5}
+        - {x: -41.5, y: -15.5}
+        - {x: -12.5, y: -44.5}
+        - {x: 28.5, y: -44.5}
+        - {x: 41.5, y: -34.5}
+        - {x: 41.5, y: 44.5}
+    - name: Stuff_concepts_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 925
+        width: 165
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 36.5}
+        - {x: -82.5, y: 28.5}
+        - {x: -82.5, y: -11.5}
+        - {x: -52.5, y: -36.5}
+        - {x: 72.5, y: -36.5}
+        - {x: 82.5, y: -33.5}
+        - {x: 82.5, y: 17.5}
+        - {x: 39.5, y: 36.5}
+    - name: Stuff_concepts_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 774
+        width: 188
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -83}
+        - {x: 6, y: -68}
+        - {x: -41, y: -66}
+        - {x: 45, y: -69}
+        - {x: 94, y: -19}
+        - {x: 94, y: 64}
+        - {x: 66, y: 113}
+        - {x: 43, y: 115}
+        - {x: -26, y: 115}
+        - {x: -55, y: 100}
+        - {x: -73, y: 78}
+        - {x: -82, y: 56}
+        - {x: -91, y: 32}
+        - {x: -94, y: 5}
+        - {x: -94, y: -71}
+        - {x: -73, y: -94}
+        - {x: -61, y: -100}
+        - {x: -3, y: -115}
+        - {x: 49, y: -115}
+        - {x: 52, y: -109}
+        - {x: 58, y: -82}
+        - {x: 43, y: -77}
+    - name: Stuff_concepts_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 644
+        width: 167
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: -113}
+        - {x: 33.5, y: -110}
+        - {x: 26.5, y: -111}
+        - {x: 22.5, y: -113}
+        - {x: 42.5, y: -100}
+        - {x: 45.5, y: -91}
+        - {x: 42.5, y: -88}
+        - {x: 25.5, y: -89}
+        - {x: 23.5, y: -91}
+        - {x: 11.5, y: -94}
+        - {x: 13.5, y: -93}
+        - {x: 21.5, y: -90}
+        - {x: 36.5, y: -87}
+        - {x: 55.5, y: -74}
+        - {x: 83.5, y: -43}
+        - {x: 83.5, y: 108}
+        - {x: 22.5, y: 187}
+        - {x: -56.5, y: 187}
+        - {x: -75.5, y: 134}
+        - {x: -83.5, y: 41}
+        - {x: -83.5, y: -20}
+        - {x: -66.5, y: -26}
+        - {x: -64.5, y: -26}
+        - {x: -61.5, y: -28}
+        - {x: -57.5, y: -29}
+        - {x: -60.5, y: -29}
+        - {x: -63.5, y: -27}
+        - {x: -72.5, y: -25}
+        - {x: -76.5, y: -24}
+        - {x: -78.5, y: -32}
+        - {x: -72.5, y: -47}
+        - {x: -63.5, y: -58}
+        - {x: -46.5, y: -68}
+        - {x: -35.5, y: -71}
+        - {x: -28.5, y: -72}
+        - {x: -16.5, y: -72}
+        - {x: -21.5, y: -73}
+        - {x: -38.5, y: -71}
+        - {x: -56.5, y: -63}
+        - {x: -67.5, y: -61}
+        - {x: -83.5, y: -105}
+        - {x: -83.5, y: -165}
+        - {x: -71.5, y: -169}
+        - {x: 60.5, y: -187}
+        - {x: 83.5, y: -187}
+        - {x: 83.5, y: -179}
+        - {x: 59.5, y: -153}
+      - - {x: 33.5, y: -128}
+        - {x: 33.5, y: -130}
+        - {x: 35.5, y: -132}
+        - {x: 36.5, y: -132}
+        - {x: 39.5, y: -129}
+        - {x: 38.5, y: -126}
+        - {x: 35.5, y: -126}
+    - name: Stuff_concepts_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 816
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
